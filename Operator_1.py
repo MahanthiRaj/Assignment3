@@ -57,18 +57,27 @@
 
 #!/bin/python3
 
+#hacker rank1
 
-if __name__ == '__main__':
-    n = int(input())
-    if n % 2 !=0:
-        print("weird")
-    else:
-        if n >=2 and n <=5:
-            print("not weird")
-        elif n >=6 and n <=20:
-            print("weird")
-        else:
-            print("not weird")
+#if __name__ == '__main__':
+    #n = int(input())
+    #if n % 2 !=0:
+        #print("weird")
+    #else:
+        #if n >=2 and n <=5:
+            #print("not weird")
+        #elif n >=6 and n <=20:
+            #print("weird")
+        #else:
+            #print("not weird")
+
+#hacker rank2
+#if __name__ == '__main__':
+   # n = int(input())
+
+#for i in range(n):
+    #r = i ** 2
+    #print(r)
     
 
 
