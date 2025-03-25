@@ -79,11 +79,13 @@
     #r = i ** 2
     #print(r)
     
+def even(x,y):
+    for i in range (x,y):
+        if i % 2==0:
+            print("even",i)
+            
+x = int(input("enter stsrting point"))
+y = int(input("enter stsrting point"))
 
-
-
-
-
-
-
-
+print(even(x,y))
+    
