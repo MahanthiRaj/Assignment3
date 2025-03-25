@@ -1,0 +1,11 @@
+#take two user-input starting_point and ending_point you have print even in that range
+
+def even(x,y):
+    for i in range (x,y):
+        if i % 2==0:
+            print("even",i)
+            
+x = int(input("enter stsrting point"))
+y = int(input("enter stsrting point"))
+
+print(even(x,y))
