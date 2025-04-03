@@ -1,7 +1,7 @@
 #create a calultor which is having a = 5, b = 6
 
 
-def calculator(num_1,num_2,n):
+def calculator(a,b,n):
 
     if n == '+':
         result = num_1+num_2
