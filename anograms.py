@@ -8,6 +8,7 @@ if sorted(main_word)==sorted(firstword):
     print("strings are anagrams")
 else:
     print("strings are not anagrams")
+    
         
     
     
