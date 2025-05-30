@@ -1,0 +1,19 @@
+1. Variables - a variables will hold the data which is assigned to it and variable cannot start with number 
+ and we cannot use the special characters 
+ 
+example:  hello(variable) = 5(data)
+            
+    Do's                  Dont's
+          hello_        Hello-
+          Hello         9hello
+          HeLLo2        Hello@
+          hello_my
+          HELLO
+
+ problem : a = 5
+           b = 6
+           print(a+b)
+
+2. DataTypes - Variable will stores the data in different types like (string, inte, boolean)
+   
+
